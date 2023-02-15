@@ -343,6 +343,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.radio.internal.deviceinfo@1.0 \
     vendor.qti.hardware.radio.lpa@1.0 \
     vendor.qti.hardware.radio.lpa@1.1 \
+    vendor.qti.hardware.radio.lpa@1.2 \
     vendor.qti.hardware.radio.qcrilhook@1.0 \
     vendor.qti.hardware.radio.qtiradio@1.0 \
     vendor.qti.hardware.radio.qtiradio@2.0 \
@@ -378,8 +379,6 @@ PRODUCT_PACKAGES += \
     lib-imsvt \
     lib-imsvtextutils \
     lib-imsvtutils \
-    libaptXHD_encoder \
-    libaptX_encoder \
     libdiag_system \
     libdpmctmgr \
     libdpmfdmgr \
@@ -413,6 +412,7 @@ PRODUCT_PACKAGES += \
     adsprpcd \
     cdsprpcd \
     cnd \
+    cnss-daemon \
     dpmQmiMgr \
     dspservice \
     hvdcp_opti \
